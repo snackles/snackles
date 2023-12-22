@@ -8,4 +8,4 @@
 
 
 <h3 align="left">Other tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.gentoo.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-plain.svg" alt="linux" width="40" height="40"/></a><a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="linux" width="40" height="40"/></a></p>
