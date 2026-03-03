@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
-<h3 align="center">C++ developer</h3>
+<h3 align="center">C++ programmer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snackles&layout=compact&show_icons=true&theme=dark)](https://github.com/snackles?tab=repositories)
 
