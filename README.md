@@ -11,5 +11,5 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gentoo.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-plain.svg" alt="gentoo" width="40" height="40"/></a>
   <a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/></a></p>
-  <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Emacs" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Emacs" width="40" height="40"/></a></p>
